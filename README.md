@@ -34,6 +34,7 @@ Again the mine number is set either by default or by the user.
 
 
 Other features:
+
 1.
 Sound effects have been added throughout the game. This is done by using the method playSound(file_name).
 The volume level of the sound effects can be set using the slider shown in the main game window.
